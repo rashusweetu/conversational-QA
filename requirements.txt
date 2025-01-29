@@ -1,0 +1,8 @@
+python-dotenv
+langchain_community
+langchain_groq
+langchain_Core
+ipykernel
+langchain-chroma
+langchain_huggingface
+beautifulsoup4
